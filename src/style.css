@@ -1,0 +1,23 @@
+body{
+    background-color:lightgoldenrodyellow;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color:rgb(58, 129, 40);
+}
+h1{
+    /*line-height: 0.2;*/
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h2{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /*line-height: 0.3;*/
+    color:rgb(16, 36, 17);
+    font-weight: bold;
+}
+h3{
+    line-height: 0.1;
+}
+h4{
+    line-height: 0.1;
+}
