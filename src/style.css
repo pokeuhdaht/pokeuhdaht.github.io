@@ -1,23 +1,43 @@
 body{
-    background-color:lightgoldenrodyellow;
+    background-color:#dce1f7;
     font-family: Verdana, Arial, Helvetica, sans-serif;
-    color:rgb(58, 129, 40);
+    color:#363636
+;
 }
 h1{
-    /*line-height: 0.2;*/
+    /*line-height: 0.2;
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 0px; */
+    color:#222222;
+    margin: 0;
 }
 h2{
-    margin-top: 0px;
+    /* margin-top: 0px;
     margin-bottom: 0px;
     /*line-height: 0.3;*/
-    color:rgb(16, 36, 17);
+    color:#363636;
     font-weight: bold;
+    margin: 0;
 }
 h3{
-    line-height: 0.1;
+   /* line-height: 0.1; */
+    color:#9e1e07;
+    margin: 0;
 }
 h4{
-    line-height: 0.1;
+    /*line-height: 0.1;*/
+    margin: 0;
 }
+
+
+/*
+======= COLOR PALETTE =======
+    #ff6347  -  RED
+    #9e1e07  -  DARKER RED
+    #43b0f1  -  LIGHT BLUE
+    #222222  -  BLACK
+    #363636  -  DARK GRAY
+    #ffffff  -  WHITE
+    #dce1f7  -  LIGHT GRAY
+
+*/
